@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Talha.
 - 👀 I’m interested in Mathematics and Control Systems.
 - 🌱 I’m currently learning to write code for ESP32 on PlatformIO.
+- ⚡ Fun fact: I like to read and play video games.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
